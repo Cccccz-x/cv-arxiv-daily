@@ -22,6 +22,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "Diffusion":
+        filters: ["Diffusion", "Generation", "T2I", "T2V", "Image Generation", "Video Generation", 
+        "Animation"]
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
