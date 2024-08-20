@@ -3413,6 +3413,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**The Resonant Remains of Broken Chains from Major and Minor Mergers**|Rixin Li et.al.|[2408.10206](http://arxiv.org/abs/2408.10206)|null|
+|**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
+|**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198](http://arxiv.org/abs/2408.10198)|null|
+|**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
+|**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195](http://arxiv.org/abs/2408.10195)|null|
+|**2024-08-19**|**Krylov Complexity as a Probe for Chaos**|Mohsen Alishahiha et.al.|[2408.10194](http://arxiv.org/abs/2408.10194)|null|
+|**2024-08-19**|**Superconductivity and spin canting in spin-orbit proximitized rhombohedral trilayer graphene**|Caitlin L. Patterson et.al.|[2408.10190](http://arxiv.org/abs/2408.10190)|null|
+|**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|
+|**2024-08-19**|**Participatory Mapping of Local Green Hydrogen Cost-Potentials in Sub-Saharan Africa**|C. Winkler et.al.|[2408.10184](http://arxiv.org/abs/2408.10184)|null|
+|**2024-08-19**|**The breadth of constructibility degrees and definable Sierpiński's coverings**|Alessandro Andretta et.al.|[2408.10182](http://arxiv.org/abs/2408.10182)|null|
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873](http://arxiv.org/abs/2408.08873)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|**[link](https://github.com/wzh0120/sam2-unet)**|
 |**2024-08-16**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
