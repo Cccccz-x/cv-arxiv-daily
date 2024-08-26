@@ -3392,6 +3392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256](http://arxiv.org/abs/2408.13256)|null|
+|**2024-08-23**|**Vertex correction to nuclear matrix elements of double- $β$ decays**|Jun Terasaki et.al.|[2408.13254](http://arxiv.org/abs/2408.13254)|null|
+|**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252](http://arxiv.org/abs/2408.13252)|null|
+|**2024-08-23**|**Isolation and characterization of atomically thin mica phyllosilicates**|Kristine L. Haley et.al.|[2408.13249](http://arxiv.org/abs/2408.13249)|null|
+|**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
+|**2024-08-23**|**Properties and applications of the Bicomplex Miller-Ross function**|Snehasis Bera et.al.|[2408.13246](http://arxiv.org/abs/2408.13246)|null|
+|**2024-08-23**|**Fullerene-encapsulated Cyclic Ozone for the Next Generation of Nano-sized Propellants via Quantum Computation**|Thomas W. Watts et.al.|[2408.13244](http://arxiv.org/abs/2408.13244)|null|
+|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243](http://arxiv.org/abs/2408.13243)|null|
+|**2024-08-23**|**Improving Equivariant Model Training via Constraint Relaxation**|Stefanos Pertigkiozoglou et.al.|[2408.13242](http://arxiv.org/abs/2408.13242)|null|
+|**2024-08-23**|**Which Prosodic Features Matter Most for Pragmatics?**|Nigel G. Ward et.al.|[2408.13240](http://arxiv.org/abs/2408.13240)|null|
 |**2024-08-22**|**DreamCinema: Cinematic Transfer with Free Camera and 3D Character**|Weiliang Chen et.al.|[2408.12601](http://arxiv.org/abs/2408.12601)|null|
 |**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
 |**2024-08-22**|**Very Extended Ionized Gas Discovered around NGC 1068 with the Circumgalactic H $α$ Spectrograph**|Nicole Melso et.al.|[2408.12597](http://arxiv.org/abs/2408.12597)|null|
