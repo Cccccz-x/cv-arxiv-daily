@@ -3392,6 +3392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472](http://arxiv.org/abs/2408.14472)|null|
+|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
+|**2024-08-26**|**K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**|Zhikai Li et.al.|[2408.14468](http://arxiv.org/abs/2408.14468)|null|
+|**2024-08-26**|**Eclipse mapping study of the eclipsing binary KIC~3858884 with hybrid $δ$~Sct/$γ$ ~Dor component**|A. Bókon et.al.|[2408.14464](http://arxiv.org/abs/2408.14464)|null|
+|**2024-08-26**|**Unitary Designs from Random Symmetric Quantum Circuits**|Austin Hulse et.al.|[2408.14463](http://arxiv.org/abs/2408.14463)|null|
+|**2024-08-26**|**Relativistic spin hydrodynamics with momentum and spin-dependent relaxation time**|Samapan Bhadury et.al.|[2408.14462](http://arxiv.org/abs/2408.14462)|null|
+|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-26**|**Cloud-Based Federation Framework and Prototype for Open, Scalable, and Shared Access to NextG and IoT Testbeds**|Maxwell McManus et.al.|[2408.14460](http://arxiv.org/abs/2408.14460)|null|
+|**2024-08-26**|**Weighted holomorphic mappings associated with p-compact type sets**|M. G. Cabrera-Padilla et.al.|[2408.14459](http://arxiv.org/abs/2408.14459)|null|
+|**2024-08-26**|**Multiscale Design of Au-Based Alloys for Improved Plasmon Delivery and Nanoheating in Near-Field Transducers**|Okan K. Orhan et.al.|[2408.14451](http://arxiv.org/abs/2408.14451)|null|
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256](http://arxiv.org/abs/2408.13256)|null|
 |**2024-08-23**|**Vertex correction to nuclear matrix elements of double- $β$ decays**|Jun Terasaki et.al.|[2408.13254](http://arxiv.org/abs/2408.13254)|null|
 |**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252](http://arxiv.org/abs/2408.13252)|null|
