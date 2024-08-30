@@ -3413,6 +3413,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**3D Whole-body Grasp Synthesis with Directional Controllability**|Georgios Paschalidis et.al.|[2408.16770](http://arxiv.org/abs/2408.16770)|null|
+|**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768](http://arxiv.org/abs/2408.16768)|**[link](https://github.com/ziyuguo99/sam2point)**|
+|**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
+|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
+|**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765](http://arxiv.org/abs/2408.16765)|null|
+|**2024-08-29**|**Finite Sample Valid Inference via Calibrated Bootstrap**|Yiran Jiang et.al.|[2408.16763](http://arxiv.org/abs/2408.16763)|null|
+|**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
+|**2024-08-29**|**Nonlocal Moments in the Chern Bands of Twisted Bilayer Graphene**|Patrick J. Ledwith et.al.|[2408.16761](http://arxiv.org/abs/2408.16761)|null|
+|**2024-08-29**|**How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models**|Jiyue Jiang et.al.|[2408.16756](http://arxiv.org/abs/2408.16756)|null|
+|**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753](http://arxiv.org/abs/2408.16753)|null|
 |**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
 |**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994](http://arxiv.org/abs/2408.15994)|null|
