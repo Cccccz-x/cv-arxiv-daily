@@ -3392,6 +3392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Learning Density Functionals from Noisy Quantum Data**|Emiel Koridon et.al.|[2409.02921](http://arxiv.org/abs/2409.02921)|null|
+|**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/abs/2409.02920)|null|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
+|**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
+|**2024-09-04**|**Latent Watermarking of Audio Generative Models**|Robin San Roman et.al.|[2409.02915](http://arxiv.org/abs/2409.02915)|null|
+|**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
+|**2024-09-04**|**On Baire property of spaces of compact-valued measurable functions**|Alexander V. Osipov et.al.|[2409.02913](http://arxiv.org/abs/2409.02913)|null|
+|**2024-09-04**|**SITAR: Semi-supervised Image Transformer for Action Recognition**|Owais Iqbal et.al.|[2409.02910](http://arxiv.org/abs/2409.02910)|null|
+|**2024-09-04**|**Gravitational radiation from binary systems in Unimodular gravity**|Indranil Chakraborty et.al.|[2409.02909](http://arxiv.org/abs/2409.02909)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
 |**2024-08-30**|**Signatures of topology in generic transport measurements for Rarita-Schwinger-Weyl semimetals**|Ipsita Mandal et.al.|[2408.17447](http://arxiv.org/abs/2408.17447)|null|
 |**2024-08-30**|**From free idempotent monoids to free multiplicatively idempotent rigs**|Morgan Rogers et.al.|[2408.17440](http://arxiv.org/abs/2408.17440)|null|
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437](http://arxiv.org/abs/2408.17437)|**[link](https://github.com/loreley99/syntheval_checklist)**|
