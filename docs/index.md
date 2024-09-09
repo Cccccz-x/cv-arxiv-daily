@@ -3392,6 +3392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Memory burden effect mimics reheating signatures on SGWB from ultra-low mass PBH domination**|Nilanjandev Bhaumik et.al.|[2409.04436](http://arxiv.org/abs/2409.04436)|null|
+|**2024-09-06**|**Holographic Air-quality Monitor (HAM)**|Nicholas Bravo-Frank et.al.|[2409.04435](http://arxiv.org/abs/2409.04435)|null|
+|**2024-09-06**|**Constrained local Hamiltonians: quantum generalizations of Vertex Cover**|Ojas Parekh et.al.|[2409.04433](http://arxiv.org/abs/2409.04433)|null|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
+|**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
+|**2024-09-06**|**Hyper-bishops, Hyper-rooks, and Hyper-queens: Percentage of Safe Squares on Higher Dimensional Chess Boards**|Caroline Cashman et.al.|[2409.04423](http://arxiv.org/abs/2409.04423)|null|
+|**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
+|**2024-09-06**|**On the Role of Muons in Binary Neutron Star Mergers: First Simulations**|Henrique Gieg et.al.|[2409.04420](http://arxiv.org/abs/2409.04420)|null|
+|**2024-09-06**|**Engineering unique localization transition with coupled Hatano-Nelson chains**|Ritaban Samanta et.al.|[2409.04417](http://arxiv.org/abs/2409.04417)|null|
+|**2024-09-06**|**Bayesian solution to the inverse problem and its relation to Backus-Gilbert methods**|Luigi Del Debbio et.al.|[2409.04413](http://arxiv.org/abs/2409.04413)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation**|Wenliang Zhao et.al.|[2409.03755](http://arxiv.org/abs/2409.03755)|**[link](https://github.com/wl-zhao/dc-solver)**|
 |**2024-09-05**|**Foundation Model or Finetune? Evaluation of few-shot semantic segmentation for river pollution**|Marga Don et.al.|[2409.03754](http://arxiv.org/abs/2409.03754)|**[link](https://github.com/theoceancleanup/rivertrashsegmentation)**|
