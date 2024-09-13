@@ -3392,6 +3392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
+|**2024-09-12**|**AnySkin: Plug-and-play Skin Sensing for Robotic Touch**|Raunaq Bhirangi et.al.|[2409.08276](http://arxiv.org/abs/2409.08276)|null|
+|**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
+|**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
+|**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
+|**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269](http://arxiv.org/abs/2409.08269)|null|
+|**2024-09-12**|**Generalized Komar charges and Smarr formulas for black holes and boson stars**|Romina Ballesteros et.al.|[2409.08268](http://arxiv.org/abs/2409.08268)|null|
+|**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
+|**2024-09-12**|**Digital twin of a large-aspect-ratio Rayleigh-Bénard experiment: Role of thermal boundary conditions, measurement errors and uncertainties**|Philipp Patrick Vieweg et.al.|[2409.08263](http://arxiv.org/abs/2409.08263)|null|
+|**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453](http://arxiv.org/abs/2409.07453)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
