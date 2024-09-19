@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3401,7 +3401,7 @@ layout: default
 |**2024-09-17**|**$L^2$ -vanishing theorem and a conjecture of Kollár**|Ya Deng et.al.|[2409.11399](http://arxiv.org/abs/2409.11399)|null|
 |**2024-09-17**|**The dynamics of spherically symmetric black holes in scalar-Gauss-Bonnet gravity with a Ricci coupling**|Farid Thaalba et.al.|[2409.11398](http://arxiv.org/abs/2409.11398)|null|
 |**2024-09-17**|**Normalization in Proportional Feature Spaces**|Alexandre Benatti et.al.|[2409.11389](http://arxiv.org/abs/2409.11389)|null|
-|**2024-09-17**|**Probability-scale residuals for event-time data**|Eric S. Kawaguchi et.al.|[2409.11385](http://arxiv.org/abs/2409.11385)|null|
+|**2024-09-18**|**Probability-scale residuals for event-time data**|Eric S. Kawaguchi et.al.|[2409.11385](http://arxiv.org/abs/2409.11385)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
 |**2024-09-16**|**An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems**|Hitesh Tulsiani et.al.|[2409.10515](http://arxiv.org/abs/2409.10515)|null|
 |**2024-09-16**|**KPZ equation from ASEP plus general speed-change drift**|Kevin Yang et.al.|[2409.10513](http://arxiv.org/abs/2409.10513)|null|
